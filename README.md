@@ -30,12 +30,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=VIKrewer&theme=dracula&border_radius=5" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=vikrewer&theme=dracula&row=1&column=6" height="150"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ###
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIKrewer)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
