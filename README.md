@@ -34,18 +34,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=VIKrewer&theme=dracula&row=1&column=6" height="150"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIKrewer/VIKrewer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIKrewer/VIKrewer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VIKrewer/VIKrewer/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIKrewer)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
