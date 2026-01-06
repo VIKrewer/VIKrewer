@@ -26,12 +26,3 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=48bits&logo=discord&label=bot&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
-
-###
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikrewer)](https://github.com/anuraghazra/github-readme-stats)
-
-
-###
-
-###
