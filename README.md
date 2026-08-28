@@ -9,7 +9,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://giffiles.alphacoders.com/145/14508.gif"  />
+<img data-importer="image" align="right" height="2000" src="https://giffiles.alphacoders.com/145/14508.gif"  />
 
 ###
 
